@@ -1,0 +1,5 @@
+homepage: "https://reciteme.com"
+documentation: "https://reciteme.com"
+versions:
+  - sha: add5a6cee77100dffa9bbbe7c84cf5206c029b34
+    changeNotes: Initial Release
